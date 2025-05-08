@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		9DD831B22DCCF4A1000E9A1A /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 9DD831B12DCCF492000E9A1A /* readme.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		9D79875A2DCB916C00DD495E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		9D7987432DCB916800DD495E /* iQuiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iQuiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D7987592DCB916C00DD495E /* iQuizTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iQuizTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D7987632DCB916C00DD495E /* iQuizUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iQuizUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DD831B12DCCF492000E9A1A /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -88,10 +93,11 @@
 		9D79873A2DCB916700DD495E = {
 			isa = PBXGroup;
 			children = (
-				9D7987452DCB916800DD495E /* iQuiz */,
+				9DD831B12DCCF492000E9A1A /* readme.md */,
 				9D79875C2DCB916C00DD495E /* iQuizTests */,
 				9D7987662DCB916C00DD495E /* iQuizUITests */,
 				9D7987442DCB916800DD495E /* Products */,
+				9D7987452DCB916800DD495E /* iQuiz */,
 			);
 			sourceTree = "<group>";
 		};
@@ -225,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9DD831B22DCCF4A1000E9A1A /* readme.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
