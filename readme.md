@@ -38,7 +38,7 @@ Durante o desenvolvimento deste projeto, aprendi:
 ## 👨‍💻 Desenvolvedor
 
 Feito por **Samael Melo**  
-[🔗 LinkedIn](https://github.com/samaelmelo/iQuiz)
+[🔗 LinkedIn](https://linkedin.com/in/samael-melo)
 
 ---
 
